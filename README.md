@@ -1,4 +1,4 @@
-# Web Application Firewall Home Lab — SafeLine WAF
+# Web Application Firewall Home Lab - SafeLine WAF
 
 **From a SOC perspective:** I exploited SQL injection in a vulnerable web app,
 then put SafeLine WAF in front of it and confirmed the same payload was blocked,
@@ -50,7 +50,7 @@ Two paths to the same application:
 
 ---
 
-## Stack
+## Tools
 
 | Component | Role | Details |
 |-----------|------|---------|
